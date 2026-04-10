@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Myself
+Hi(Im on Arch Linux btw) I am a programer that has been programming since the age of 10
+i have been using lanuages like Python, C++ ect.
+im stating to learn *UnityEngine* the *UnrealEngine* ripoff but wores
 
-<!--
-**SAMURAISETH/SAMURAISETH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i love doing projects because they can be fun and work out 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Languages i Know and love
+1. *Rust*
+2. **C++**
+3. **C(sometimes)**
+4. **Python(But im shit at it)**
+5. *Lua*
+6. *Luau*
+7. **Java**
+8. **HTML, CSS, JS**
+   
