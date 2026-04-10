@@ -17,9 +17,13 @@ I'v built over 17 projects privately
 
  **Fun Facts:**
 
+- *I like coffee*
+  
+- *I love linux*
+  
+- *I love Samurais*
+  
+- *I love Math's*
 
-- I like coffee
-- I love linux
-- I love Samurais
-- I love Math's
-- Hobies: I love Programing and creating and thinking everyday
+  
+ **Hobies: I love Programing and creating and thinking everyday**
