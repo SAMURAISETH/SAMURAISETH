@@ -1,6 +1,6 @@
 # Hey There 💪
 
-I'm [SAMURAISETH](https://github.com/SAMURAISETH/SAMURAISETH/tree/main),a programmer in Australia(i use Arch Linux by the way)
+I'm [SAMURAISETH](https://github.com/SAMURAISETH/SAMURAISETH/tree/main), a programmer in Australia(i use Arch Linux by the way)
 
 
 I build and design what ever i want and come up with
