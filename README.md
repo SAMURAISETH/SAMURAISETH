@@ -9,7 +9,7 @@ I build and design what ever i want and come up with
 if a idea pops in my head i plan it then build it
 
 
-my main tech code is c++, lua, luau, c, html, css, python my faviourt tools are Visual Studios Code, UnityEngine, Roblox Studios, Kwrite, Vim
+my main tech code is c++, lua, luau, c, html, css, python my faviourt tools are Visual Studios Code, UnityEngine, Roblox Studios, Vim
 
 
 I'v built over 17 projects privately
